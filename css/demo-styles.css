@@ -1,0 +1,12 @@
+.myblock {
+  background-color: #968c82;
+  width: 100px;
+  height: 100px;
+  padding-top: 30px; }
+  .myblock .whitebox {
+    background-color: red;
+    color: blue;
+    margin: 20px; 
+ }
+
+/*# sourceMappingURL=demo-styles.css.map */

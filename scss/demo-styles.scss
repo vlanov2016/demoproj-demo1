@@ -1,0 +1,8 @@
+﻿$bgcolor:rgb(50,40,30);
+.myblock {background-color: rgb(50,40,30) + 100;
+    width:100px; height:100px; padding-top:30px;
+    .whitebox {
+        background-color: red; color:blue;
+        margin:20px; 
+    }
+}
